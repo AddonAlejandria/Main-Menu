@@ -12,7 +12,7 @@
 
 	
     <item>
-        <title>Todas las peliculas</title>         
+        <title>Peliculas</title>         
         <link>http:>//ignoreme</link>
         <externallink>https://raw.githubusercontent.com/AddonAlejandria/Movies/master/Todas.xml</externallink>
 	<genre>Accion</genre>
