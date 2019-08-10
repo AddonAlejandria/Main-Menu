@@ -21,3 +21,14 @@
         <epg></epg> 
         <fanart></fanart>
 </items>
+	
+    <item>
+        <title>Canales</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>http://xawos.ovh/index.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZG9uQWxlamFuZHJpYS9DaGFubmVscy9tYXN0ZXIvc3RhcnR4LmNoYW5uZWxzLnhtbA%3D%3D</externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</items>	
