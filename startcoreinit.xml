@@ -32,3 +32,14 @@
         <epg></epg> 
         <fanart></fanart>
 </items>	
+
+	   <item>
+        <title>Series</title>         
+        <link>http:>//ignoreme</link>
+        <externallink></externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</items>	
